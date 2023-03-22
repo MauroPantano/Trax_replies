@@ -90,10 +90,9 @@
 }
 .our-feature--container2{
   width: 768px;
-  height: 100%;
   display: none;
   position: absolute;
-  top: 835px;
+  top: 133%;
   left: 50%;
   transform: scale(1);
   transition: transform 0.3s ease-in-out;
